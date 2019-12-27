@@ -1,6 +1,6 @@
 ***To contribute to this project***
 1. Clone the project 
-`$ git clone https://www.github.com/kemoszn/pychain.git`
+`$ git clone https://www.github.com/antoniocdff/pychain.git`
 2. Install pip 
 `$ sudo apt install python3-pip` or `$ sudo apt install python-pip`
 2. Install virtualenv 
